@@ -136,7 +136,7 @@ CASE 1 PATH START WITH 'A'
 
 CASE 2 PATH START WITH '0'
 
-<img width="240" height="126" alt="image" src="https://github.com/user-attachments/assets/960f223c-4e04-4395-a5dc-a13a1a66cd8a" />
+<img width="764" height="187" alt="image" src="https://github.com/user-attachments/assets/64fee16e-99fb-4b29-a039-f75452ce4dfe" />
 
 
 ### RESULT
