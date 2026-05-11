@@ -22,32 +22,38 @@ queue, and the current-level nodes are marked visited and popped from the queue.
 Let us understand the working of the algorithm with the help of the following example.
 
 <B>Step1: Initially queue and visited arrays are empty. </B>
+
 <img width="681" height="286" alt="image" src="https://github.com/user-attachments/assets/5872b545-43d7-4b7a-8d53-fc3b06287d2d" />
 
 Queue and visited arrays are empty initially.   
 
 <B>Step2: Push node 0 into queue and mark it visited. </b>  
+
 <img width="657" height="282" alt="image" src="https://github.com/user-attachments/assets/2e7d7fea-e0a5-4dfe-a2fd-310ea99972cf" />
 
 Push node 0 into queue and mark it visited.   
 
 <B> Step 3: Remove node 0 from the front of queue and visit the unvisited neighbours and push them into 
 queue. </B>  
+
 <img width="660" height="250" alt="image" src="https://github.com/user-attachments/assets/e7d11078-dcc9-4620-9e94-8693eacbecae" />
 
 <B>Step 4: Remove node 1 from the front of queue and visit the unvisited neighbours and push them into 
 queue. </B>  
+
 <img width="678" height="234" alt="image" src="https://github.com/user-attachments/assets/c28f4a01-ccbf-48f2-b2ed-e8fea8f418b5" />
 
 
 <B>Step 5: Remove node 2 from the front of queue and visit the unvisited neighbours and push them into 
 queue. </B>  
+
 <img width="703" height="260" alt="image" src="https://github.com/user-attachments/assets/1fe9225d-7244-4574-b93a-1044f6f302ad" />
 
 Remove node 2 from the front of queue and visit the unvisited neighbours and push them into queue.   
 
 <B>Step 6: Remove node 3 from the front of queue and visit the unvisited neighbours and push them into   
 queue.  </B>  
+
 <img width="647" height="240" alt="image" src="https://github.com/user-attachments/assets/642ece03-db56-4410-8f3a-afe80bb05d41" />
 
 As we can see that every neighbours of node 3 is visited, so move to the next node that are in the 
@@ -57,6 +63,7 @@ Remove node 3 from the front of queue and visit the unvisited neighbours and pus
 
 Steps 7: Remove node 4 from the front of queue and visit the unvisited neighbours and push them 
 into queue.  </B>  
+
 <img width="646" height="248" alt="image" src="https://github.com/user-attachments/assets/68cfee3e-1f6a-4931-b7db-69412c2e6d07" />
 
 As we can see that every neighbours of node 4 are visited, so move to the next node that is in the 
