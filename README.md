@@ -133,7 +133,11 @@ CASE 1 PATH START WITH 'A'
 
 <img width="361" height="172" alt="image" src="https://github.com/user-attachments/assets/1c48ffe1-8f39-4616-8380-bd53e3c9bac0" />
 
+
 CASE 2 PATH START WITH '0'
+
+<img width="240" height="126" alt="image" src="https://github.com/user-attachments/assets/960f223c-4e04-4395-a5dc-a13a1a66cd8a" />
+
 
 ### RESULT
 Thus, a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.
