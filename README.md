@@ -126,7 +126,7 @@ else:
 path = []
 visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
-print(traversedpath).
+print(traversedpath)
 ```
 ### OUTPUT
 CASE 1 PATH START WITH 'A'
