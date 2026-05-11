@@ -130,6 +130,7 @@ print(traversedpath).
 ```
 ### OUTPUT
 CASE 1 PATH START WITH 'A'
+
 CASE 2 PATH START WITH '0'
 
 ### RESULT
