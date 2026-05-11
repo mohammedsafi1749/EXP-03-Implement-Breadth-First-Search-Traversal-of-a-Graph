@@ -131,7 +131,7 @@ print(traversedpath)
 ### OUTPUT
 CASE 1 PATH START WITH 'A'
 
-<img width="361" height="172" alt="image" src="https://github.com/user-attachments/assets/1c48ffe1-8f39-4616-8380-bd53e3c9bac0" />
+<img width="764" height="187" alt="image" src="https://github.com/user-attachments/assets/1c48ffe1-8f39-4616-8380-bd53e3c9bac0" />
 
 
 CASE 2 PATH START WITH '0'
